@@ -3,17 +3,17 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "-",
    "moreApps": [
-      {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+     {
+         "title": "Teen Super Titans Coloring Game",
+         "description": "Teen Super Titans Coloring Game is a Great Coloring Game That will help you to learn more about painting. Doodling, painting and drawing has never been so easy and fun.",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/devcoloring3/main/iconnnteentitans.png",
+         "url": "https://play.google.com/store/apps/details?id=com.lacolori.teentitanscoloringgame"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Godzilla Coloring Monsters",
+         "description": "Godzilla Coloring Monsters Game is a Great Coloring Game That will help you to learn more about painting. Doodling, painting and drawing has never been so easy and fun.",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/devcoloring3/main/iconnngodzillacoloring.png",
+         "url": "https://play.google.com/store/apps/details?id=com.lacolori.godzillacoloringmonster"
       },
       {
          "title": "",
